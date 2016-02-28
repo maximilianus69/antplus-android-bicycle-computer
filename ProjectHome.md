@@ -1,0 +1,3 @@
+In contrast to all the flashy social-media enabled GPS-tracking, calorie-counting toy-sportstrackers, this app is just a simple bike computer that focuses on data (such as speed, cadence, heart-rate) on good visibility and on battery conservation.
+For data it relies on ANT+ Sensors such as Garmins bike and heart-rate sensors
+It is - as of now - just for my personal use on my Sony Ericsson Xperia active with a Garmin speed/cadence sensor and a Garmin heart-rate belt.
